@@ -1,6 +1,6 @@
 ## 🍂 Informations
 - 📕 Learning **Typescript** and **Javascript**
-- 🤖 creating a **discord bot**
+- 🤖 Developing a **Discord Bot**
 
 <div>
 <a href="https://www.github.com/neveesx">
